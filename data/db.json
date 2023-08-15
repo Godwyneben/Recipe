@@ -1,0 +1,56 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Party Jollof",
+      "ingredients": [
+        "Rice",
+        "Tomatoes",
+        "Bell Pepper",
+        "Scotch bonnet",
+        "Onions",
+        "Garlic",
+        "Ginger",
+        "Oil",
+        "Stock",
+        "Seasoning and herbs"
+      ],
+      "method": "The inevitable foundation for building up the flavor in this meal is to start by sauteeing the Onions. This should take about 3 to 5 minutes. The next thing is to stir in the tomato paste. This adds a deep and rich tomato flavor; I simply fry this for another 5 minutes or thereabout. Add the ginger and garlic and cook along with the tomato paste for another two minutes; Actually, by the time this is ready, you will notice it in the smell. If you keep it cooking any longer, you might risk burning them. Add the blended peppers. Usually, there is no particular time frame for frying this pepper. I often stop when the sauce becomes really thick, and the oil literally floats on top of the sauce. At this point, most of the water is gone, and the sauce no longer smells raw. Trust me, you will know, but just in case you are still in doubt, I would say maybe 15 to 20 minutes depending on the quantity of water in your blended pepper. Finally, in building my flavor, I add the thyme, curry powder, salt, white pepper (good but optional), and seasoning cubes. Adjust the seasoning at this point if there is a need to. Once the flavor is on point, then, stir the Rice. Make sure you stir the rice properly until you cover each grain of rice with the sauce. Now add the chicken stock. Give it a brief stir and cover it up with a tight-fitting lid. If your lid is not fitting enough, simply cover the rice with foil paper before covering it with the lid. This is because Jollof needs a lot of steam in order to turn out well. Once the rice comes to a boil, reduce the heat to medium-low immediately and continue to cook until the rice is done, about 20 to 30 minutes. Serve with Fried Chicken, Spicy Grilled Chicken, Grilled Tilapia Fish, or Gizzards and plantains.",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Meat Pie",
+      "ingredients": [
+        "Flour",
+        "Butter",
+        "Salt and Sugar",
+        "1 cup Carrots diced",
+        "1 cup Potatoes diced",
+        "1 Tsp Curry powder",
+        "1/2 Tsp Thyme",
+        "2 Bouillon Cubes ",
+        "1/2 Cup Water",
+        "1 lb Ground beef",
+        " 1.5 tbsp vegetable oil",
+        "! teaspoon Baking Powder",
+        "1/2 teaspoon Nutmeg"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Greek Salad",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+      "cookingTime": "35 minutes"
+    }
+  ]
+}
