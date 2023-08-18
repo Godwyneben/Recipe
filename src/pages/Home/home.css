@@ -1,0 +1,10 @@
+.home{
+    max-width: 1500px;
+    margin: 60px auto;
+}
+
+.home h2{
+    font-size: 3rem;
+    line-height: 4rem;
+    cursor: pointer;
+}
