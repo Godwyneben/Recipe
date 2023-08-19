@@ -28,7 +28,7 @@ function App() {
             <Search />
           </Route>
 
-          <Route path="/recipes:id">
+          <Route path="/recipes/:id">
             <Recipe />
           </Route>
         </Switch>

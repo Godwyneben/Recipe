@@ -1,4 +1,4 @@
-// styles 
+// Styles 
 import './create.css'
 
 export default function create() {

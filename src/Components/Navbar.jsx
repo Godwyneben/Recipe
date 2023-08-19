@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom'
 
-
 // styles 
 import './Navbar.css'
 
@@ -9,12 +8,11 @@ export default function Navbar() {
     <div className='navbar'>
       <nav>
         <Link to="/" className="brand">
-            <h1>Cook-A-Thoner</h1>
+          <h1>Hilda</h1>
         </Link>
 
         <Link to="/create">
-            <h3>Create Recipe</h3>
-
+          <h1>Create Recipe</h1>
         </Link>
       </nav>
     </div>
