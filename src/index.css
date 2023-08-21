@@ -9,7 +9,7 @@
 
 /* styles */
 html, body, #root {
-  height: 100%;
+  height: fit-content;
 }
 
 body::after{
@@ -25,7 +25,7 @@ body::after{
   background: url('/src/Assets/root.png');
   background-repeat: no-repeat;
   background-size: auto;
-  opacity: 0.3;
+  /* opacity: 0.8; */
   z-index: -1;
   color: #333;
 }
@@ -47,9 +47,10 @@ input, textarea {
 }
 
 .page-title {
+  font-size: 3rem;
   text-align: center;
-  margin: 40px auto;
-  color: #333;
+  margin: 20px auto;
+  color: #fff;
 }
 
 .loading, .error {
