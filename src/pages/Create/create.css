@@ -1,36 +1,45 @@
 .create {
-    color: #555;
-    max-width: 580px;
-    margin: 80px auto;
-    background: #000;
-    padding: 1.5rem 2rem;
-  }
+  color: #555;
+  max-width: 580px;
+  margin: 30px auto;
+  background: #000;
+  padding: .5rem 2rem;
+}
 
-  .create .page-title{
-    color: #fff;
-  }
+.create .page-title {
+  color: #fff;
+}
 
-  .create label span {
-    display: block;
-    margin: 35px 0 10px;
-    padding: auto 3rem;
-    font-size: 1.5rem;
-  }
+.create label span {
+  display: block;
+  margin: 35px 0 10px;
+  padding: auto 3rem;
+  font-size: 1.5rem;
+}
 
-  .create p {
-    margin-top: 10px;
-    font-size: 0.8em;
-  }
+.create p {
+  margin-top: 10px;
+  font-size: 0.8em;
+}
 
-  .create button {
-    display: block;
-    width: 100px;
-    font-size: 1em;
-    color: #000;
-    padding: 8px 20px;
-    border: 0;
-    border-radius: 4px;
-    cursor: pointer;
-    text-decoration: none;
-    margin: 20px auto;
-  }
+.create button {
+  display: block;
+  width: 100px;
+  font-size: 1em;
+  color: #000;
+  padding: 8px 20px;
+  border: 0;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+  margin: 20px auto;
+}
+
+.ingredients{
+  display: flex;
+  align-items: center;
+}
+
+.ingredients button{
+  margin: 0 0 0 10px;
+}
