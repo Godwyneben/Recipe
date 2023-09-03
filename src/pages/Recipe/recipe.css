@@ -8,6 +8,7 @@
   }
 
   .recipe .time{
+    display: block;
     color: crimson;
     font-size: 1.35rem;
     margin-bottom: 10px;

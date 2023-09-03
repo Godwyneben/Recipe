@@ -1,7 +1,7 @@
 .recipe-list{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 10px;
+    grid-gap: 15px;
     max-width: 1500px;
     margin: 40px auto;
 }
@@ -18,7 +18,7 @@
 }
 
 .recipe-list .card:hover{
-    transform: translateY(2rem);
+    transform: translateY(.4rem);
 }
 
 .recipe-list .card h3{
