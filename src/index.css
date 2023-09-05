@@ -9,16 +9,15 @@
 
 /* styles */
 html, body, #root {
-  height: 100vh;
+  height: fit-content;
 }
 
-body::after{
+body{
   content: "";
   top: 0;
   left: 0;
   bottom: 0;
   right: 0;
-  position: absolute;
   font-family: Raleway, sans-serif;
   margin: 0;
   font-size: 1.4em;
