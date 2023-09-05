@@ -9,7 +9,7 @@ export const useFetch = (url, method = "GET") => {
   const postData = (postData) => {
     setOptions({
       method: "POST",
-      header: {
+      headers: {
         "Content-Type": "application/json"
       },
       body: JSON.stringify(postData)

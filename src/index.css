@@ -9,7 +9,7 @@
 
 /* styles */
 html, body, #root {
-  height: fit-content;
+  height: 100vh;
 }
 
 body::after{

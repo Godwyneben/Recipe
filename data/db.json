@@ -66,6 +66,40 @@
     },
     {
       "id": "lkMkdR0"
+    },
+    {
+      "title": "Pancake",
+      "ingredients": [
+        "flour",
+        "eggs",
+        "honey"
+      ],
+      "method": "lorem....",
+      "cookingTime": "10 minutes",
+      "id": "Nh6dTlo"
+    },
+    {
+      "title": "Ewa Agoyin",
+      "ingredients": [
+        "Beans",
+        "palm oil",
+        "ground pepper"
+      ],
+      "method": "lorem ...  ",
+      "cookingTime": "50 minutes",
+      "id": "Y6GIkNw"
+    },
+    {
+      "title": "Asaro",
+      "ingredients": [
+        "Yam",
+        "palm oil",
+        "vegetable",
+        "meat/fish"
+      ],
+      "method": "lorem ...",
+      "cookingTime": "45 minutes",
+      "id": "kp0h4_k"
     }
   ]
 }
