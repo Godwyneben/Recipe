@@ -8,7 +8,7 @@ import './search.css'
 import RecipeList from '../../Components/Recipelist'
 
 export default function Search() {
-  const queryString = useLocation().search
+  const queryString = useLocation().search //Not working...revisit
   const queryParams = new URLSearchParams(queryString)
   const query = queryParams.get('q')
 
@@ -24,3 +24,4 @@ export default function Search() {
     </div>
   )
 }
+
