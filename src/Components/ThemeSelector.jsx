@@ -3,7 +3,7 @@ import { useTheme } from '../Hooks/useTheme'
 // styles 
 import './ThemeSelector.css'
 
-const themeColors = ['crimson', 'green', 'blue']
+const themeColors = ['black', 'green', 'crimson']
 
 export default function ThemeSelector() {
     const {changeColor} = useTheme()

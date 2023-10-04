@@ -24,7 +24,6 @@ body{
   background: url('/src/Assets/root.png');
   background-repeat: no-repeat;
   background-size: auto ;
-  /* opacity: 0.8; */
   z-index: -1;
   color: #333;
 }
